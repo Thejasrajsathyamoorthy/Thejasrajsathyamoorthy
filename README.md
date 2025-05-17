@@ -1,6 +1,6 @@
 ## **Hello, and welcome!**
 
-I’m **Thejas Raj A S** , a dedicated data analyst and data scientist who thrives on transforming raw data into impactful insights. I believe that data, when used effectively, has the power to drive smarter, data-informed decisions and bring clarity to complex challenges. Here, I showcase my skills, tools, and approach to making data meaningful.
+I’m **Thejas Raj A S** , a dedicated data professional who thrives on transforming raw data into impactful insights. I believe that data, when used effectively, has the power to drive smarter, data-informed decisions and bring clarity to complex challenges. Here, I showcase my skills, tools, and approach to making data meaningful.
 
 ### 🛠️ **Skills and Tools**
 * **Languages & Data Manipulation**
